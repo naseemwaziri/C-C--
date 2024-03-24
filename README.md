@@ -1,4 +1,4 @@
-# Learning C++ Repository
+# Learning C++ Journey 
 
 This repository is a collection of my journey learning C++. It contains various files and folders dedicated to different aspects of the language, from basic syntax to Object-Oriented Programming (OOP) and now moving towards Data Structures and Algorithms (DSA).
 
